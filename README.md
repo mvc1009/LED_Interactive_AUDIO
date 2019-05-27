@@ -1,3 +1,10 @@
+
+Is not my Code, you can see in Greensom GitHub. I will start with his code and change for my own.
+
+https://github.com/Grensom/LED-Audio-Spectrum
+
+Greensom README.md :
+
 Please Read these instructions for setting up the LED-Audio_Spectrum Project
 
 ----------------------------------------------------------
